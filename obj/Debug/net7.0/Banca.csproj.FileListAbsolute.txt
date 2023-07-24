@@ -1,0 +1,15 @@
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\bin\Debug\net7.0\Banca.exe
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\bin\Debug\net7.0\Banca.deps.json
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\bin\Debug\net7.0\Banca.runtimeconfig.json
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\bin\Debug\net7.0\Banca.dll
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\bin\Debug\net7.0\Banca.pdb
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\Banca.csproj.AssemblyReference.cache
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\Banca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\Banca.AssemblyInfoInputs.cache
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\Banca.AssemblyInfo.cs
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\Banca.csproj.CoreCompileInputs.cache
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\Banca.dll
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\refint\Banca.dll
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\Banca.pdb
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\Banca.genruntimeconfig.cache
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Banca Revista\Banca\Banca\obj\Debug\net7.0\ref\Banca.dll
